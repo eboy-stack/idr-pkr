@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://idrpoker.wider-challenge.org/sitemap.xml
